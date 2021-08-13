@@ -9,7 +9,16 @@ h1 {
 #Empresa{
 backgroud-color: gray;
 }
-}
+
 #Produto{
 backgroud-color: black;
+}
+
+a
+{
+color: black;
+}
+a:hover
+{
+color: white;
 }
